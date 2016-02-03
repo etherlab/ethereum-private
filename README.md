@@ -1,4 +1,4 @@
-# Ethereum-private 
+# Ethereum Private Blockchain
 Deploy and use a private ethereum testnet where you can mine an test your dapps 
 ## Usage
 Put geth on /usr/bin as a standalone in your ~/ folder
